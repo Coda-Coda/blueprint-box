@@ -4,8 +4,8 @@
     ".gitignore"
   ],
   "commands": {
-    "Compile contracts": "truffle compile",
-    "Migrate contracts": "truffle migrate",
+    "Compile contracts": "echo 'TODO - compile'",
+    "Migrate contracts": "echo 'NOT SUPPORTED'",
     "Test contracts": "truffle test"
   },
   "hooks": {
